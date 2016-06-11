@@ -1,6 +1,1 @@
-/shared
-/local-config.php
-/sql-dump-*.sql
-/db-sync
-/content/upgrade/
-.DS_Store
+*.DS_Store
