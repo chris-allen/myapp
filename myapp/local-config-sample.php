@@ -10,3 +10,6 @@ define( 'DB_NAME', '<%= @config["DB_NAME"] %>' );
 define( 'DB_USER', '<%= @config["DB_USER"] %>' );
 define( 'DB_PASSWORD', '<%= @config["DB_PASSWORD"] %>' );
 define( 'DB_HOST', '<%= @config["DB_HOST"] %>' );
+
+define( 'AWS_ACCESS_KEY_ID',     "<%= @config["AWS_ACCESS_KEY_ID"] %>" );
+define( 'AWS_SECRET_ACCESS_KEY', "<%= @config["AWS_SECRET_ACCESS_KEY"] %>" );
